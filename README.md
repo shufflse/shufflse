@@ -1,7 +1,7 @@
 Hi 👋 My name is Oli
 =========================
 
-Web Developer, Musician, Student
+Web Developer, Student
 --------------------------------
 
 Just some person who likes tech and music
