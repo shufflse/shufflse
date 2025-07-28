@@ -3,11 +3,7 @@ Hi 👋 My name is Oli
 
 Web Developer, Student
 --------------------------------
-
-Just some person who likes tech and music
-
-*   🌍  I'm based in Britain
-*   🧠  I'm learning JavaScript
+Took a 3 year break but im back mostly just to maintain CPS Test but also to work on potential future projects
 
                 
 ### Skills
